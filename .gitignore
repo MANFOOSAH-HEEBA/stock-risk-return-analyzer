@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+INTERVIEW_PREP.md
+data/market.db
+data/raw/prices.csv
+.venv/
